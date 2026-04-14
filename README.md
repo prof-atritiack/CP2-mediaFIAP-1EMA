@@ -1,1 +1,4 @@
 # CP2-mediaFIAP-1EMA
+
+Exemplo inicial
+
